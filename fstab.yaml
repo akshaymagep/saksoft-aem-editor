@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://main--saksoftdemo-ak--akshaymagep.aem.page/"
+    url: "https://main--saksoftdemo-ak--akshaymagep.aem.page/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
